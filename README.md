@@ -1,24 +1,16 @@
-# composition-test
+# Design patterns in Vue 3
 
-## Project setup
-```
-npm install
-```
+This project takes the "Learning JavaScript Design Patterns" as inspiration to architeture and develop a real world app following the patterns quotes in the book. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Why Vue 3
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Vue 3 introduce the composition api, an way to use SFC without being locked in the framework,  making possible creating a more scalable and solid project using well known designs.
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Creational
+
+
+## Structural
+
+
+## Behavioral
