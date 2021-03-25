@@ -9,6 +9,16 @@ Vue 3 introduce the composition api, an way to use SFC without being locked in t
 
 ## Creational
 
+#### Constructors 
+
+#### Factory
+
+#### Abstract Factory	
+
+
+#### Constructors 
+
+
 
 ## Structural
 
